@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <img src="Images/Background.png" width="100%" alt="GitHub Banner">
+</p>
 
-<!--
-**MhdSajith/MhdSajith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Mohamed Sajith
 
-Here are some ideas to get you started:
+### Electronics & Communication Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 VLSI Design  
+🔹 Verilog HDL  
+🔹 FPGA Design  
+🔹 Embedded Systems  
+🔹 ESP32 & IoT  
+🔹 PLC Design  
+
+## Projects
+
+- Gesture-to-Speech Glove Using ESP32 and Flex Sensors
+- Home Automation Using ESP32 & Blynk
+- IoT SoC Design Using Verilog & Vivado
+- Single-Core 8-Bit ALU Processor Design
+- Fastest Line Follower Robot 
+
+## Tools
+
+- Xilinx Vivado
+- ModelSim
+- Arduino IDE
+- EDA Playground
+- EasyEDA
+- MATLAB
+
+## Connect With Me
+
+ Email: mohamedsajith1110@gmail.com
